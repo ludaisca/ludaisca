@@ -17,6 +17,7 @@ Construyo software de negocio en México: CRM multicanal, facturación CFDI y au
 
 ## Público
 
+- **[Tesela](https://github.com/ludaisca/Tesela)** — librería de componentes sin dependencias (HTML, CSS y Custom Elements) con 212 experimentos. → [demo](https://ludaisca.github.io/Tesela/)
 - **[argos](https://github.com/ludaisca/argos)** — agente de investigación en Facebook e Instagram: CLI, Docker y despliegue con Coolify.
 
 <sub>México · español e inglés</sub>
